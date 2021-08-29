@@ -1,3 +1,11 @@
+## Kyle Day's First CS193 Homework
+
+- I like that there are no exams in this class.
+- I like the size of this class.
+- I like my instructors for this class.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
